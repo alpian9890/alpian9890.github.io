@@ -1,7 +1,7 @@
 {
   "name": "lua-simple-encrypt",
   "version": "1.1.0",
-  "description": "Lua encrypt.",
+  "description": "Lua simple XOR encrypt.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "lua",
     "encrypt"
   ],
-  "author": "alpian9890",
+  "author": "Ganlv",
   "license": "MIT",
   "dependencies": {
     "bulma": "^0.7.5",
