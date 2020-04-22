@@ -1,7 +1,6 @@
 -------------------- Template: credit
 -- Lua simple encrypt by Alpian
--- https://github.com/alpian9890
--- Instagram : alpian9890
+-- https://github.com/alpian9890/alpian9890.github.io
 -------------------- Template: keyInputCode
 key = "PASSWORD"
 -------------------- Template: keyInputCodeGG
@@ -76,10 +75,8 @@ if main then
     main()
 else
 -------------------- Template: keyWrongAlertCode
-    print("PASSWORD! SALAH")
+    print("WRONG PASSWORD!")
 -------------------- Template: keyWrongAlertCodeGG
-    gg.alert("PASSWORD! SALAH")
+    gg.alert("WRONG PASSWORD!")
 -------------------- Template: keyWrongAlertEnd
 end
-
-Jangan diedit ya nanti Error
